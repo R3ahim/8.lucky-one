@@ -91,6 +91,7 @@ const Shop = () => {
             </div>
             <div className="cart-container">
                 <div id='id' >
+                    <h3>Selected Laptop</h3>
 
                 </div>
                 <div id='useId'>
@@ -103,7 +104,7 @@ const Shop = () => {
 
                         <button onClick={() => choseAddToCurt(cart)} className='btn-1'> chose for one </button>
                         <br />
-                        <button onClick={() => DeleteToCurt()} className='btn-1'>delter</button>
+                        <button onClick={() => DeleteToCurt()} className='btn-1'>Clear</button>
                     </div>
                 </div>
             </div>
