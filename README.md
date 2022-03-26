@@ -1,6 +1,6 @@
 # Getting Started with Apna Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Apna Shop](https://stellular-sundae-cb9e08.netlify.app/).
 
 ## Available Products
 
