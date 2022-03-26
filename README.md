@@ -1,8 +1,8 @@
 # Getting Started with Apna Shop
 
-This project was bootstrapped with [Apna Shop](https://github.com/Programming-Hero-Web-Course4/lucky-one-juberahmed111).
+This project was bootstrapped with [Visit Apna Dukan](https://funny-pie-93116d.netlify.app/).
 
-## https://fastidious-bienenstitch-6caa29.netlify.app/
+# https://funny-pie-93116d.netlify.app/
 
 ### `lenovo app`
 
